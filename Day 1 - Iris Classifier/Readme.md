@@ -20,7 +20,7 @@ The model utilizes the renowned Iris dataset, a classic benchmark in machine lea
 To run the Streamlit app:
 
 1. Clone this repository.
-2. Install required libraries: `pip install streamlit pandas numpy scikit-learn`
+2. Install required libraries: `pip install streamlit pandas numpy scikit-learn Seaborn`
 3. Navigate to the project directory.
 4. Run `streamlit run iris_classifier.py`
 
