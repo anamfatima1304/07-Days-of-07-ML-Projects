@@ -26,3 +26,6 @@ To run the Streamlit app:
 
 The Streamlit app allows users to input Iris flower measurements and receive predicted species.
 
+**Contributing**
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
